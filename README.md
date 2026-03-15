@@ -224,7 +224,7 @@ Example outputs from the model:
 
 # Author
 
-**Jayaveera Kumar Kosuri, B V Pravallika**
+**K Jayaveera Kumar, B V Pravallika**
 
 GitHub:
 https://github.com/JAYVEER30
