@@ -216,7 +216,6 @@ Example outputs from the model:
 * Train on larger datasets (ISIC 2018 / ISIC 2019)
 * Improve feature detection head
 * Add attention mechanisms
-* Deploy model using a web application
 
 ---
 
@@ -226,7 +225,7 @@ Example outputs from the model:
 
 GitHub:
 https://github.com/JAYVEER30
-
+https://github.com/Pravallika0730/
 ---
 
 # License
