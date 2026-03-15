@@ -1,5 +1,3 @@
-# Skin-Cancer-Multitask-ML-model
-
 # Skin Cancer Multitask Deep Learning Model
 
 A **multi-task deep learning framework** for automated skin cancer analysis using dermoscopic images.
